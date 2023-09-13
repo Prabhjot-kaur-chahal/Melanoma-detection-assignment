@@ -49,6 +49,11 @@ The data set contains the following diseases:
   - Choose an appropriate optimiser and loss function for model training
   - Train the model for ~30 epochs
   - Write your findings after the model fit, see if the issues are resolved or not?
+  - Todo: Analyze your results here. Did you get rid of underfitting/overfitting? Did class rebalance help?
+    Accuracy on training data has increased by using Augmentor library
+    Model is still overfitting
+    The problem of overfitting can be solved by add more layer,neurons or adding dropout layers.
+    The Model can be further improved by tuning the hyperparameter
  
 
  
